@@ -1,2 +1,2 @@
 alpine
-mysql:5.7
+mysql
